@@ -1,0 +1,51 @@
+
+Fri Jun 05 12:05:10 UTC 2015 : Trek: ahh.
+Fri Jun 05 12:16:54 UTC 2015 : Trek: SilverFox did you give a quote for what you want to charge for the 3d prints?
+Fri Jun 05 12:17:03 UTC 2015 : SilverFox: Nope
+Fri Jun 05 12:17:20 UTC 2015 : SilverFox: I can only give light-hearted estimates
+Fri Jun 05 12:18:47 UTC 2015 : SilverFox: Just know that it'll be less than shapeways could offer you
+Fri Jun 05 12:19:40 UTC 2015 : Trek: What printer are you getting?
+Fri Jun 05 12:20:07 UTC 2015 : SilverFox: I sadly do not want to disclose this
+Fri Jun 05 12:20:44 UTC 2015 : SilverFox: Trust me with that advice that the company is bad and let's leave it at that
+Fri Jun 05 12:22:37 UTC 2015 : Trek: so the same as what I could make with my printer...
+Fri Jun 05 12:23:00 UTC 2015 : SilverFox: Yeah, probably
+Fri Jun 05 12:23:37 UTC 2015 : SilverFox: which is half the height of regular printers
+Fri Jun 05 12:24:30 UTC 2015 : SilverFox: What my business is, is a 3d printer available for public use for a fee
+Fri Jun 05 12:26:13 UTC 2015 : SilverFox: I'm looking into getting a larger printer, but that'll take time
+Fri Jun 05 12:27:26 UTC 2015 : SilverFox: I can also print in PLA and ABS and speciality filaments
+Fri Jun 05 12:30:39 UTC 2015 : Trek: .3mm nozzle,  214x236x242mm print area, abs and pla, heated bed, subtractive and additive manufacturing capibilities, layer size: 50,100 micrometers, Rotating Laser scan, Sweep laser scan and Z-Probe Digitizer for 3d scanning.
+Fri Jun 05 12:32:21 UTC 2015 : SilverFox: Interesting, which printer is this?
+Fri Jun 05 12:36:23 UTC 2015 : Trek: Its from an indigogo campaign.
+Fri Jun 05 12:36:31 UTC 2015 : SilverFox: Which printer?
+Fri Jun 05 12:38:09 UTC 2015 : SilverFox: Hrmm
+Fri Jun 05 12:39:20 UTC 2015 : Trek: one, a cable came a little lose during transport from Italy so I had to wiggle it back into place but other than that its been great
+Fri Jun 05 12:40:07 UTC 2015 : SilverFox: Well, your printer can offer more than mine can
+Fri Jun 05 12:40:55 UTC 2015 : Trek: You made it blush :p
+Fri Jun 05 12:41:24 UTC 2015 : SilverFox: Anyways, if you're going to choose your own printer over my service, then let me know
+Fri Jun 05 12:49:07 UTC 2015 : Trek: stops all my other tabs poping on screen :p
+Fri Jun 05 12:50:22 UTC 2015 : SilverFox: true, or you could open a new window
+Fri Jun 05 12:51:10 UTC 2015 : Trek: not yet, Ibe had a REALLY busy few months so there have been no videos for a while.
+Fri Jun 05 12:51:25 UTC 2015 : SilverFox: There hasnt been a video in over a month
+Fri Jun 05 12:53:10 UTC 2015 : Trek: If we have the models made I expect so, 1 printer is not enough to make 300+items :p
+Fri Jun 05 12:54:10 UTC 2015 : SilverFox: Fair enough
+Fri Jun 05 12:55:08 UTC 2015 : Trek: it was their goal to maximise the area as muh as possible while keeping the footprint sensible.
+Fri Jun 05 12:56:07 UTC 2015 : SilverFox: fair enough
+Fri Jun 05 16:55:36 UTC 2015 : SilverFox: There's an image on the kickstarter that says the satt is 34cm high
+Fri Jun 05 16:57:23 UTC 2015 : SilverFox: I also think personally that the last reward should have 5 slots instead of 4
+Fri Jun 05 17:08:08 UTC 2015 : SilverFox: We've also agreed on the chips and boards we're using?
+Fri Jun 05 17:12:45 UTC 2015 : SilverFox: the kickstarter says that we're using two rasp pis and a TI chip
+Fri Jun 05 17:13:05 UTC 2015 : Mordrac: rapsi computing module by last standard
+Fri Jun 05 17:13:08 UTC 2015 : Mordrac: 2
+Fri Jun 05 17:13:13 UTC 2015 : Mordrac: yea
+Fri Jun 05 17:14:07 UTC 2015 : Trek|Away: most of the time the pis are off
+Fri Jun 05 17:14:21 UTC 2015 : SilverFox: Why do we need two pis?
+Fri Jun 05 17:15:03 UTC 2015 : Trek|Away: the ti can do the low end stuff easy but cant do image stuff at all.
+Fri Jun 05 17:15:15 UTC 2015 : SilverFox: So then get a single rasp pi?
+Fri Jun 05 17:15:26 UTC 2015 : Trek|Away: 2 is for redundancy.
+Fri Jun 05 17:15:41 UTC 2015 : SilverFox: but that's power consumption
+Fri Jun 05 17:20:55 UTC 2015 : Trek|Away: because you cant replace broken things in space
+Fri Jun 05 17:21:19 UTC 2015 : SilverFox: Fair enough, but what if the TI chip dies?
+Fri Jun 05 18:21:46 UTC 2015 : nmk456: does LogBot do anything now?
+Fri Jun 05 18:21:53 UTC 2015 : SilverFox: Yes
+Fri Jun 05 18:22:19 UTC 2015 : SilverFox: and logs
+Fri Jun 05 18:26:26 UTC 2015 : SilverFox: kraken gave me the link
