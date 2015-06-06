@@ -1,0 +1,51 @@
+
+Fri Jun 05 19:23:30 UTC 2015 : Trek|Away: it might be technically as powerful but it will almost definitely use more power and not support the nvidia features like hairworks and physx
+Fri Jun 05 19:24:01 UTC 2015 : TheFrontGuy|work: I thought LTT did a review of the 980ti
+Fri Jun 05 19:24:29 UTC 2015 : nmk456: maybe, theres just no on the site i'm using
+Fri Jun 05 19:24:33 UTC 2015 : nmk456: hows this: https://pcpartpicker.com/part/gigabyte-video-card-gvn98td56gdb
+Fri Jun 05 19:24:45 UTC 2015 : nmk456: holy crap, 250W
+Fri Jun 05 19:24:46 UTC 2015 : Trek|Away: there are already dozens of versions with OC and custom cooling. going to take a few weeks bfore proper comparisions can be made between models.
+Fri Jun 05 19:26:24 UTC 2015 : TheFrontGuy|work: https://www.youtube.com/watch?v=VQou5h0Zh2k
+Fri Jun 05 19:26:28 UTC 2015 : TheFrontGuy|work: LTT review
+Fri Jun 05 19:26:58 UTC 2015 : nmk456: brb
+Fri Jun 05 19:27:15 UTC 2015 : nmk456: another reason why i need a new computer
+Fri Jun 05 19:27:19 UTC 2015 : nmk456: i don't have to share it
+Fri Jun 05 19:29:49 UTC 2015 : nmk-tab: Hi again
+Fri Jun 05 19:57:28 UTC 2015 : Trek|Away: We are looking for more rewards for the new kickstarter. So far there are 6 physical rewards which we will need to have made up, things like the mugs and shirts have a few different versions. It would be nice to stick to virtual rewards if we can but not a requirement. There are some rules. 1. No rewards based on imaging, remember to start we arent
+Fri Jun 05 19:57:29 UTC 2015 : Trek|Away:  flying any hardware. 2. Try to keep the rewards "virtual" That is with no physical presence. 3.nothing we have suggested already
+Fri Jun 05 20:25:02 UTC 2015 : TheFrontGuy|work: gtg
+Fri Jun 05 21:02:27 UTC 2015 : N-Spade: Trek|Away: https://www.theprintful.com/dashboard/default/intro
+Fri Jun 05 21:02:38 UTC 2015 : N-Spade: this is a good place to get the t-shirts and mugs IMHO
+Fri Jun 05 21:02:55 UTC 2015 : N-Spade: I believe we can even set it up to print and send automatically
+Fri Jun 05 21:03:50 UTC 2015 : N-Spade: otherwise we'd have to buy 25+ t-shirt and hope they sell
+Fri Jun 05 21:04:07 UTC 2015 : N-Spade: this is one of the few- if not the only-print-on-demand places
+Fri Jun 05 21:10:55 UTC 2015 : nmk-tab: Trek do you have a link to that doc you where talking about?
+Fri Jun 05 21:12:09 UTC 2015 : Trek|Away: which one?
+Fri Jun 05 21:12:25 UTC 2015 : nmk-tab: The tech stuff
+Fri Jun 05 21:12:50 UTC 2015 : Trek|Away: im still writing it. I can send you a draft but its not close to being done
+Fri Jun 05 21:12:57 UTC 2015 : nmk-tab: Ok
+Fri Jun 05 21:13:52 UTC 2015 : Trek|Away: is that ok nvm or ok send?
+Fri Jun 05 21:13:59 UTC 2015 : nmk-tab: OK send
+Fri Jun 05 21:15:44 UTC 2015 : Trek|Away: https://www.filepicker.io/api/file/4ITDhEFOQ8qN5XhaAr4K
+Fri Jun 05 21:17:08 UTC 2015 : Trek|Away: I can make it pdf if thats easier
+Fri Jun 05 21:17:20 UTC 2015 : nmk-tab: PDF is good
+Fri Jun 05 21:17:46 UTC 2015 : nmk-tab: Maybe you could put the PDF in the private Google Drive folder
+Fri Jun 05 21:18:13 UTC 2015 : Trek|Away: when its done it will go into the public folder but for now its just something im working on
+Fri Jun 05 21:18:56 UTC 2015 : nmk-tab: Ok
+Fri Jun 05 21:19:15 UTC 2015 : nmk-tab: But what about the private folder?
+Fri Jun 05 21:19:40 UTC 2015 : nmk-tab: Only a few of us have access
+Fri Jun 05 21:20:27 UTC 2015 : nmk-tab: And it won't be the original copy, just a pdf
+Fri Jun 05 21:23:30 UTC 2015 : Trek|Away: https://drive.google.com/open?id=0B6yMrRwulR2sQkpLSmwxYVIwOTA&authuser=0
+Fri Jun 05 21:24:28 UTC 2015 : nmk-tab: I don't have access
+Fri Jun 05 21:24:57 UTC 2015 : Trek|Away: given
+Fri Jun 05 21:43:44 UTC 2015 : nmk-tab: OK, the FAQ thing is way outdated
+Fri Jun 05 21:44:10 UTC 2015 : PresidentRaptor: tell Thoth
+Fri Jun 05 21:44:31 UTC 2015 : nmk-tab: No, the thing on trek's doc
+Fri Jun 05 21:48:36 UTC 2015 : PresidentRaptor: my bad currently writing the hold order
+Fri Jun 05 21:49:02 UTC 2015 : nmk-tab: The what?
+Fri Jun 05 21:50:04 UTC 2015 : PresidentRaptor: We are officially ordering a hold on the launch of the Kickstarter until we have all of this sorted out and fixed
+Fri Jun 05 21:50:30 UTC 2015 : nmk-tab: Oh. Ok
+Fri Jun 05 21:51:37 UTC 2015 : Trek|Away: Yes its outdated, like I said thats just a draft
+Fri Jun 05 21:53:16 UTC 2015 : Trek|Away: unfinished draft
+Fri Jun 05 21:57:39 UTC 2015 : nmk-tab: Yeah, I know
+Fri Jun 05 21:57:49 UTC 2015 : nmk-tab: Just wanted to point that out
